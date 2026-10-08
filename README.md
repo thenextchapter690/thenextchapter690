@@ -1,90 +1,167 @@
 <div align="center">
 
-### ✦ ˚ ༘ 🎀 ⋆｡˚ ꒰ა 🦇 ໒꒱ ˚｡⋆ 🎀 ༘ ˚ ✦
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,30,36&text=Building%20My%20Next%20Chapter&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn"/>
 
-# 🩷 Hey, I'm Samiya 🩷
-### ✧ ･ﾟ: *✧･ﾟ:*  Sam  *:･ﾟ✧*:･ﾟ✧
+# 🌸 Hi, I'm Samiya
 
-**💗 student · self-taught coder · bot builder · dark-story writer 💗**
+### Student • Product Builder • Startup Founder • Self-Taught Developer
 
-🌸 *welcome, wanderer. step inside my little world of code, chaos & stories* 🌸
+> *Turning ideas into products that people remember.*
 
-[🌷 Portfolio](https://thenextchapter690.netlify.app/) ・ [💬 Tech Nest](https://discord.gg/Ag6WhHBVTY) ・ [📸 Instagram](https://www.instagram.com/thenext.chapter._)
+<p>
 
-### ✦ ˚ ༘ 🎀 ⋆｡˚ ꒰ა 🦇 ໒꒱ ˚｡⋆ 🎀 ༘ ˚ ✦
+<a href="https://thenextchapter690.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thenext.chapter._/">
+<img src="https://img.shields.io/badge/Instagram-E91E63?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/Ag6WhHBVTY">
+<img src="https://img.shields.io/badge/Tech%20Nest-FF80AB?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=F48FB1&center=true&vCenter=true&width=700&lines=Building+Labello...;Designing+Petal+Writes...;Working+on+a+Stealth+Startup...;Learning+AI+every+day...;Still+writing+my+next+chapter..."/>
 
 </div>
 
-<br>
+---
 
-## 🎀 ‧₊˚ about me ˚₊‧ 🎀
+# 🌱 About
 
-```ini
-[sam]
-role     = student & self-taught coder
-based_in = India 🇮🇳
-codes_in = Python, HTML, CSS, JavaScript
-builds   = Discord bots, websites, tiny AI things
-fuel     = late nights, music & chaos
-status   = leveling up every day 🌱
+```yaml
+Name: Samiya
+
+Age: 16
+
+Location: India 🇮🇳
+
+Role:
+  Student
+  Product Builder
+  Startup Founder
+
+Mission:
+  Build products that genuinely help people.
+
+Current Focus:
+  - AI
+  - Flutter
+  - Product Design
+  - Startups
+  - Board Exams
+
+Status:
+  Building every day.
 ```
 
-> 🩷 *"building software, worlds & stories, one late night at a time"* 🩷
+---
 
-<br>
+# 🚀 Products
 
-## 🌸 ‧₊˚ what i'm building ˚₊‧ 🌸
+| Product | Status |
+|---------|--------|
+| 🧠 **Labello** | Building an AI-powered personalized learning platform |
+| 🌸 **Petal Writes** | AI writing companion for authors |
+| ✨ **Stealth Startup** | Currently under development |
+| 🌷 **Petal Planner** | Student productivity app |
+| 🌐 **Tech Nest** | Community for builders and students |
+| 💻 **SamSparkAI** | Freelance websites & software |
 
-| | project | what it is |
-|:-:|:--|:--|
-| 🌷 | **[Petal Planner](https://petalplanner690.netlify.app/)** | a cute student productivity app · *live* ✓ |
-| 🤖 | **LeoByte** | custom Discord bot for Tech Nest: welcomes, tech/AI news & job posts |
-| 💻 | **SamSparkAI** | freelance web development |
-| 💬 | **Tech Nest** | a Discord community for tech people |
-| 📖 | **The Next Chapter** | my content brand on YouTube & Instagram |
-| 🧪 | **Labello Tech** | AI-linked software · *cooking in the lab* |
-| 🖤 | **The Novel** | dark romance × fantasy · *in progress* |
+---
 
-<br>
-
-## 💗 ‧₊˚ my toolkit ˚₊‧ 💗
-
-`🐍 Python` &nbsp; `🤖 Discord Bots` &nbsp; `🌐 HTML` &nbsp; `🎨 CSS` &nbsp; `⚡ JavaScript` &nbsp; `🚀 Netlify` &nbsp; `🐙 GitHub`
-
-<br>
-
-## 🩰 ‧₊˚ currently ˚₊‧ 🩰
-
-- 🌱 learning and building something new every week
-- 🤝 open to freelance work: websites & custom Discord bots
-- 💭 ask me about Python, bots, or my Tech Nest community
-- 🦇 writing dark little stories when the code gets too loud
-
-<details>
-<summary>🎁 <b>click for a secret</b> 🎁</summary>
-<br>
-
-🩷 i'm a beginner-to-intermediate coder and proud of it. every project here started with "i have no idea how to do this" 🩷
-
-</details>
-
-<br>
-
-## 💌 ‧₊˚ let's connect ˚₊‧ 💌
-
-🌷 **Portfolio** → [thenextchapter690.netlify.app](https://thenextchapter690.netlify.app/)
-💬 **Discord** → [join Tech Nest](https://discord.gg/Ag6WhHBVTY)
-📸 **Instagram** → [@thenext.chapter._](https://www.instagram.com/thenext.chapter._)
-💼 **Need a website or bot?** → DM me on Discord or Instagram
-
-<br>
+# 🛠 Tech Stack
 
 <div align="center">
 
-### ✦ ˚ ༘ 🎀 ⋆｡˚ ꒰ა 🦇 ໒꒱ ˚｡⋆ 🎀 ༘ ˚ ✦
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,react,nextjs,fastapi,firebase,postgres,git,github,vscode,figma"/>
 
-🩷 *thanks for stopping by* 🩷
+</div>
 
-### ✦ ˚ ༘ 🎀 ⋆｡˚ ꒰ა 🦇 ໒꒱ ˚｡⋆ 🎀 ༘ ˚ ✦
+---
+
+# 📈 Current Journey
+
+```text
+Dreaming
+    │
+    ▼
+Learning
+    │
+    ▼
+Building
+    │
+    ▼
+Sharing
+    │
+    ▼
+Growing
+    │
+    ▼
+The Next Chapter...
+```
+
+---
+
+# 💖 Beyond Code
+
+<table align="center">
+<tr>
+<td align="center">🎨<br><b>Drawing</b></td>
+<td align="center">📝<br><b>Journaling</b></td>
+<td align="center">🗓<br><b>Planning</b></td>
+<td align="center">📖<br><b>Writing</b></td>
+<td align="center">🎵<br><b>Music</b></td>
+<td align="center">♟<br><b>Chess</b></td>
+</tr>
+</table>
+
+---
+
+# 🌸 Currently
+
+- 🧠 Building **Labello**
+- 🌸 Designing **Petal Writes**
+- ✨ Building a stealth startup
+- 📚 Preparing for board exams
+- 🎨 Learning graphic design
+- 🎥 Documenting my journey online
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thenextchapter690&show_icons=true&hide_border=true&bg_color=00000000&title_color=F48FB1&icon_color=F06292&text_color=C2185B"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=thenextchapter690&hide_border=true&background=00000000&ring=F48FB1&fire=F06292&currStreakLabel=F48FB1&sideLabels=C2185B&dates=E91E63"/>
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+> 🌸 *Build before you're ready.*
+
+> 🌸 *Progress beats perfection.*
+
+> 🌸 *Stay curious.*
+
+> 🌸 *Every chapter teaches something.*
+
+---
+
+<div align="center">
+
+### ✨ This isn't the end.
+
+## It's just another chapter.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient&customColorList=24,30,36"/>
 
 </div>
